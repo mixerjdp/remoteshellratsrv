@@ -31,3 +31,5 @@ C:\sw\RemoteShellRAT\Server\ReverseRat\obj\Debug\ReverseRat.Form1.resources
 C:\sw\RemoteShellRAT\Server\ReverseRat\obj\Debug\ReverseRat.Properties.Resources.resources
 C:\sw\RemoteShellRAT\Server\ReverseRat\obj\Debug\ReverseRat.csproj.GenerateResource.Cache
 C:\sw\RemoteShellRAT\Server\ReverseRat\obj\Debug\ReverseRat.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Source\Repos\remoteshellratsrv\Server\ReverseRat\obj\Debug\ReverseRat.exe
+C:\Users\Juan\Source\Repos\remoteshellratsrv\Server\ReverseRat\obj\Debug\ReverseRat.pdb

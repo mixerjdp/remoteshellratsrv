@@ -20,7 +20,7 @@ namespace ReverseRat
        public string ObtenerIP() // IP Externa y Lan
         {
             string IPExterna = "";
-            String strHostName;
+            string strHostName;
             // Getting Ip address of local machine...
             // First get the host name of local machine.
             strHostName = Dns.GetHostName();

@@ -1,0 +1,2 @@
+D:\sw\ClientServer\Server\ReverseRat\obj\Debug\ReverseRat.exe
+D:\sw\ClientServer\Server\ReverseRat\obj\Debug\ReverseRat.pdb
